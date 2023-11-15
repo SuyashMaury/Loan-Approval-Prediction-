@@ -14,4 +14,6 @@ LoanAmount: The amount of loan the applicant has requested for
 Loan_Amount_Term: The no. of days over which the loan will be paid     
 Credit_History: A record of a borrower's responsible repayment of debts (1- has all debts paid, 0- not paid)    
 Property_Area : The type of location where the applicant’s property lies (Rural, Semiurban, Urban)
+# Target
+Loan_Status: Loan granted or not (Y, N)
   
